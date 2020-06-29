@@ -1,2 +1,2 @@
 # Prototype-Made-In-Conflict
-Made in Conflict is an iteration of my final project centred around the business of war. It was created as the foundation of a competitive multiplayer game and focuses heavily on economic simulation. December 2019
+Lazarus is an iteration of my final project. It is a top-down strategy game set in a dark underground world. The player controls a mercenary who must choose a side in a long-lasting conflict for resources and uncover the secrets of the underworld. December 2019
